@@ -11,7 +11,7 @@ import com.cg.jpa.entities.User;
 
 @SpringBootApplication
 public class BootjpaexampleApplication {
-
+// main class master
 	public static void main(String[] args) {
 		SpringApplication.run(BootjpaexampleApplication.class, args);
 		//ApplicationContext context=
